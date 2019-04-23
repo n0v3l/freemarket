@@ -8,7 +8,7 @@
   "status": "Published",
   "trackOptions": false,
   "class": "Worldwide Free",
-  "title": "ORIGINAL SHORT SLEEVE",
+  "title": "ORIGINAL SHORT SLEEVE \"SENNHEISER\"",
   "images": [
     {
       "image": "/images/uploads/img_0061.jpg"
@@ -23,6 +23,14 @@
     {
       "title": "MEDIUM",
       "cost": -6
+    },
+    {
+      "title": "LARGE",
+      "cost": 0
+    },
+    {
+      "title": "SMALL",
+      "cost": 0
     }
   ]
 }
