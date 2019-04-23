@@ -11,11 +11,14 @@
   "title": "ORIGINAL SHORT SLEEVE",
   "images": [
     {
-      "image": "/images/uploads/mark-chang-74-3.jpg"
+      "image": "/images/uploads/img_0061.jpg"
+    },
+    {
+      "image": "/images/uploads/img_0062.jpg"
     }
   ],
   "weight": 2,
-  "primaryImage": "/images/uploads/isabella juskova.jpg",
+  "primaryImage": "/images/uploads/img_0061.jpg",
   "options": [
     {
       "title": "MEDIUM",
