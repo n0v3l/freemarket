@@ -1,0 +1,25 @@
+{
+  "longDescription": "ORIGINAL SHORT SLEEVE BLACK COTTON SHIRT WITH WHITE \"NOVEL\" PRINT",
+  "meta": {},
+  "position": 1,
+  "price": 20,
+  "date": "2019-04-23T21:50:58.738Z",
+  "trackInventory": true,
+  "status": "Published",
+  "trackOptions": false,
+  "class": "Worldwide Free",
+  "title": "ORIGINAL SHORT SLEEVE",
+  "images": [
+    {
+      "image": "/images/uploads/mark-chang-74-3.jpg"
+    }
+  ],
+  "weight": 2,
+  "primaryImage": "/images/uploads/isabella juskova.jpg",
+  "options": [
+    {
+      "title": "MEDIUM",
+      "cost": -6
+    }
+  ]
+}
