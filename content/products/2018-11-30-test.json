@@ -4,9 +4,9 @@
   "position": 1,
   "price": "10",
   "date": "2018-11-30T22:55:46.301Z",
-  "trackInventory": true,
+  "trackInventory": false,
   "status": "Published",
-  "trackOptions": true,
+  "trackOptions": false,
   "class": "Worldwide Free",
   "title": "Test",
   "images": [
