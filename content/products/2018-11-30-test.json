@@ -4,9 +4,9 @@
   "position": 1,
   "price": "10",
   "date": "2018-11-30T22:55:46.301Z",
-  "trackInventory": false,
+  "trackInventory": true,
   "status": "Published",
-  "trackOptions": false,
+  "trackOptions": true,
   "class": "Worldwide Free",
   "title": "Test",
   "images": [
@@ -17,6 +17,17 @@
   "weight": "1",
   "primaryImage": "/images/uploads/card-og.png",
   "options": [
-    {}
+    {
+      "title": "Large",
+      "cost": 0
+    },
+    {
+      "title": "Medium",
+      "cost": 0
+    },
+    {
+      "title": "Small",
+      "cost": 0
+    }
   ]
 }
