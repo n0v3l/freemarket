@@ -1,0 +1,40 @@
+{
+  "longDescription": "ORIGINAL LON SLEEVE BLACK COTTON SHIRT WITH FOUR WHITE \"NOVEL\" PRINTS",
+  "meta": {},
+  "position": 1,
+  "price": 25,
+  "date": "2019-04-23T21:50:58.738Z",
+  "trackInventory": true,
+  "status": "Published",
+  "trackOptions": false,
+  "class": "Worldwide Free",
+  "title": "ORIGINAL SHORT SLEEVE",
+  "images": [
+    {
+      "image": "/images/uploads/longsleevefront.png.png"
+    },
+    {
+      "image": "/images/uploads/image4755.png"
+    }
+  ],
+  "weight": 2,
+  "primaryImage": "/images/uploads/longsleevefront.png.png",
+  "options": [
+    {
+      "title": "SMALL",
+      "cost": 0
+    },
+    {
+      "title": "MEDIUM",
+      "cost": 0
+    },
+    {
+      "title": "LARGE",
+      "cost": 0
+    },
+    {
+      "title": "EXTRA LARGE",
+      "cost": 0
+    }
+  ]
+}
