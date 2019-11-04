@@ -18,6 +18,11 @@
           "title": "Europe",
           "cost": 40,
           "perKg": 250
+        },
+        {
+          "title": "Asia",
+          "cost": 45,
+          "perKg": 300
         }
       ]
     }
