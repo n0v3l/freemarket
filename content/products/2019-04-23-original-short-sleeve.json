@@ -21,15 +21,7 @@
   "primaryImage": "/images/uploads/img_0061.jpg",
   "options": [
     {
-      "title": "MEDIUM",
-      "cost": -6
-    },
-    {
       "title": "LARGE",
-      "cost": 0
-    },
-    {
-      "title": "SMALL",
       "cost": 0
     }
   ]
