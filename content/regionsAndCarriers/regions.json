@@ -1,7 +1,22 @@
 {
   "regions": [
     {
-      "title": "World"
+      "title": "North America"
+    },
+    {
+      "title": "South America"
+    },
+    {
+      "title": "Europe"
+    },
+    {
+      "title": "Asia"
+    },
+    {
+      "title": "Africa"
+    },
+    {
+      "title": "Australia"
     }
   ]
 }
