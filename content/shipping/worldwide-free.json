@@ -13,6 +13,11 @@
           "title": "South America",
           "cost": 35,
           "perKg": 200
+        },
+        {
+          "title": "Europe",
+          "cost": 40,
+          "perKg": 250
         }
       ]
     }
