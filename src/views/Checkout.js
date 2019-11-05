@@ -331,6 +331,7 @@ class Checkout extends React.Component {
     State.setCarrier(' ')
     State.setRegion(' ')
     history = this.props.history
+    console.log("pk:" + STRIPE_PUBLIC_KEY + "gu:" + GITHUB_USERNAME + "gp:" + GITHUB_PASSWORD)
   }
   render(){
     const chargeTax = data.regionsAndCarriers.filter(x=>x.name=='settings')[0].chargeTax
