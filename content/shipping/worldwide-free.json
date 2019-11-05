@@ -2,27 +2,12 @@
   "title": "Worldwide",
   "carriers": [
     {
-      "title": "Free",
+      "title": "DHL",
       "regions": [
         {
-          "title": "World",
-          "cost": 70,
-          "perKg": 100
-        },
-        {
-          "title": "South America",
-          "cost": 130,
-          "perKg": 200
-        },
-        {
-          "title": "Europe",
-          "cost": 120,
-          "perKg": 250
-        },
-        {
-          "title": "Asia",
-          "cost": 199,
-          "perKg": 300
+          "title": "North America",
+          "cost": 12,
+          "perKg": 1
         }
       ]
     }
