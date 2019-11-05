@@ -193,13 +193,23 @@ const submit = (data) => {
 const getRegions = () =>{
   var regions = new Set()
   State.getCart().forEach(item=>{
+    console.log("item: ")
+    console.log(item)
     const shippingClass = data.shipping.filter(c=>c.title==item.class)[0]
+    console.log("shippingClass")
+    console.log(shippingClass)
     shippingClass && shippingClass.carriers.forEach(carrier=>{
+      console.log("carrier")
+      console.log(carrier)
       carrier.regions.forEach(region=>{
+        console.log("region")
+        console.log(region)
         regions.add(region.title)
       })
     })
   })
+  console.log("regions")
+  console.log(regions)
   return Array.from(regions)
 }
 
@@ -332,6 +342,9 @@ class Checkout extends React.Component {
     State.setRegion(' ')
     history = this.props.history
     console.log("pk:" + STRIPE_PUBLIC_KEY + "gu:" + GITHUB_USERNAME + "gp:" + GITHUB_PASSWORD)
+    console.log("getRegions:")
+    let regions = getRegions()
+    console.log(regions)
   }
   render(){
     const chargeTax = data.regionsAndCarriers.filter(x=>x.name=='settings')[0].chargeTax
