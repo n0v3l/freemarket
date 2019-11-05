@@ -8,6 +8,11 @@
           "title": "North America",
           "cost": 12,
           "perKg": 1
+        },
+        {
+          "title": "South America",
+          "cost": 45,
+          "perKg": 1
         }
       ]
     }
