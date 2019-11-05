@@ -193,6 +193,10 @@ const submit = (data) => {
 const getRegions = () =>{
   var regions = new Set()
   State.getCart().forEach(item=>{
+    console.log("data:")
+    console.log(data)
+    console.log("data.shipping")
+    console.log(data.shipping)
     console.log("item class: ")
     console.log(item.class)
     const shippingClass = data.shipping.filter(c=>c.title==item.class)[0]
